@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rudra</h1>
-<h3 align="center">A programmer interested in real-world problem-solving and anything tech</h3>
+<h3 align="center">A programmer interested in real-world problem-solving and anything tech</h3><br>
 
 
 ## 🛠️ Languages and Tools
@@ -19,11 +19,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
+<br>
 
 
 ## 📊 My GitHub Stats
 ![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudraJy&show_icons=true&theme=cobalt)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraJy&layout=compact&theme=cobalt)
+<br>
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)

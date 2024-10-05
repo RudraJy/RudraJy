@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rudra</h1>
-
 ---
-
 <h3 align="center">A programmer interested in real-world problem-solving and anything tech</h3>
+
 
 ## 🛠️ Languages and Tools
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white)
@@ -21,6 +20,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
+
 
 ## 📊 My GitHub Stats
 ![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudraJy&show_icons=true&theme=cobalt)

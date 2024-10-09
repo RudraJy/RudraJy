@@ -25,6 +25,7 @@
 ## 📊 My GitHub Stats
 ![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudraJy&show_icons=true&theme=cobalt)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraJy&layout=compact&theme=cobalt)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=RudraJy.RudraJy)
 <br>
 
 ## 📫 How to reach me:
